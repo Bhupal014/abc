@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14378" started-at="2019-06-15T14:33:38Z" finished-at="2019-06-15T14:33:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14378" started-at="2019-06-15T14:33:38Z" finished-at="2019-06-15T14:33:52Z">
+      <class name="ProjectFieldTest.projectmvn.Abcrun">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:ProjectFieldTest.projectmvn.Abcrun@d8355a8]" name="launchbrowser" is-config="true" duration-ms="10775" started-at="2019-06-15T14:33:38Z" finished-at="2019-06-15T14:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="testcaseexecution()[pri:0, instance:ProjectFieldTest.projectmvn.Abcrun@d8355a8]" name="testcaseexecution" duration-ms="3565" started-at="2019-06-15T14:33:49Z" finished-at="2019-06-15T14:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseexecution -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:ProjectFieldTest.projectmvn.Abcrun@d8355a8]" name="closebrowser" is-config="true" duration-ms="1" started-at="2019-06-15T14:33:52Z" finished-at="2019-06-15T14:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- ProjectFieldTest.projectmvn.Abcrun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
